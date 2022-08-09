@@ -1,0 +1,48 @@
+.head{
+  font-family:Courier New, monospace;
+  ;
+  color: blue;
+}
+
+.w{
+  background-image: url("bgmi.jpg");
+    background-size: 2000px 1000px;
+}
+
+.r{
+  background-color: #fff;
+  background-repeat: repeat-y;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+    width:40% ;
+  text-align: center;
+  padding: 10% 10%;
+}
+.c{
+  text-align:left;
+  padding-left: 20%;
+}
+.b{
+  background-color: #335AFF;
+  border: #335AFF;
+}
+
+.btn{
+  width: 60%;
+}
+
+.block{
+
+width: 60%;
+border: none;
+background-color: #335AFF;
+padding: 10px 28px;
+font-size: 16px;
+cursor: pointer;
+text-align: center;
+}
+
+.use{
+  text-align: center;
+}
